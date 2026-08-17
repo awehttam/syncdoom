@@ -7,6 +7,8 @@ fall back to ANSI graphics and not look so great.
 These instructions are a bit terse ATM, and only provides for a single
 player deathmatch instance.
 
+Make syncdoom.sh executable using chmod +x syncdoom.sh
+
 You'll need a copy of syncdoom from a deployed installation on a Synchronet
 BBS:
  * Compile/Build syncdoom
